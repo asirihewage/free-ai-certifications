@@ -77,7 +77,8 @@ A curated and regularly updated list of **free AI, Machine Learning, Deep Learni
 | NVIDIA Online Academy | Accelerating End-to-End Data Science Workflow | Data Science | ✅ Free | Intermediate | https://lnkd.in/epyZ3fmE |
 | NVIDIA Online Academy | AI Infrastructure & Operations Fundamentals | AI Infrastructure | ✅ Free | Beginner–Intermediate | https://lnkd.in/e7AYN4Xd |
 | NVIDIA Online Academy | Rapid Application Development with LLMs | LLMs & Prompt Engineering | ✅ Free | Intermediate | https://lnkd.in/eciki7-y |
-
+| Harvard University (CS50x 2025) | Artificial Intelligence Lecture | LLMs & Neural Networks | ✅ Free | Beginner–Intermediate | https://lnkd.in/eYg6vdCr |
+| Harvard University (CS50 Extension) | AI / Prompt Engineering | Prompt Engineering | ✅ Free | Beginner | https://lnkd.in/eJH4DWQR |
 
 ---
 
