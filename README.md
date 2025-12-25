@@ -69,6 +69,14 @@ A curated and regularly updated list of **free AI, Machine Learning, Deep Learni
 | Google / Cloud Skills | When and How to Use Generative AI | Generative AI Strategy | ✅ Free | Beginner | https://lnkd.in/gKGfHvSv |
 | Google / Cloud Skills | Generative AI in Teaching and Learning | GenAI in Education | ✅ Free | Beginner | https://lnkd.in/gD_Nb3EJ |
 | Independent Guide | 5-Step Prompting Guide | Prompt Engineering | ✅ Free | Beginner | https://lnkd.in/gcPNxevW |
+| NVIDIA Online Academy | AI for All: From Basics to GenAI Practice | AI & Generative AI | ✅ Free | Beginner | https://bit.ly/44ydVVk |
+| NVIDIA Online Academy | Getting Started with AI on Jetson Nano | AI & Edge AI | ✅ Free | Beginner | https://bit.ly/3MJb060 |
+| NVIDIA Online Academy | Building a Brain in 10 Minutes | AI Fundamentals | ✅ Free | Beginner | https://bit.ly/4oZEI4d |
+| NVIDIA Online Academy | Building Video AI Applications at the Edge | AI & Computer Vision | ✅ Free | Beginner–Intermediate | https://bit.ly/49lr0Uo |
+| NVIDIA Online Academy | Building RAG Agents with LLMs | LLMs & RAG | ✅ Free | Intermediate | https://bit.ly/3KRDSIL |
+| NVIDIA Online Academy | Accelerating End-to-End Data Science Workflow | Data Science | ✅ Free | Intermediate | https://lnkd.in/epyZ3fmE |
+| NVIDIA Online Academy | AI Infrastructure & Operations Fundamentals | AI Infrastructure | ✅ Free | Beginner–Intermediate | https://lnkd.in/e7AYN4Xd |
+| NVIDIA Online Academy | Rapid Application Development with LLMs | LLMs & Prompt Engineering | ✅ Free | Intermediate | https://lnkd.in/eciki7-y |
 
 
 ---
