@@ -61,6 +61,14 @@ A curated and regularly updated list of **free AI, Machine Learning, Deep Learni
 | OpenAI | Intro to AI for K-12 Educators | AI Literacy | ✅ Free | Beginner | https://openai.com |
 | MIT OpenCourseWare | Introduction to Robotics | Robotics & Control | ✅ Free | Intermediate | https://ocw.mit.edu |
 | Stanford (Udacity) | Artificial Intelligence for Robotics | Robotics AI | ❌ Paid | Intermediate | https://www.udacity.com |
+| Harvard University (CS50) | CS50x 2025 – Artificial Intelligence Lecture | Artificial Intelligence | ✅ Free | Beginner–Intermediate | https://lnkd.in/gyFKmevZ |
+| Harvard University (CS50 Extension) | AI and Prompt Engineering | Prompt Engineering | ✅ Free | Beginner | https://lnkd.in/gNV_FNDF |
+| Google / Cloud Skills | Introduction to Generative AI | Generative AI | ✅ Free | Beginner | https://lnkd.in/gpvypG5h |
+| Google / Cloud Skills | Prompt Engineering | Prompt Engineering | ✅ Free | Beginner | https://lnkd.in/gjYx_Uhf |
+| Google / Cloud Skills | Beyond Chatbots: System Prompts and RAG | RAG & System Prompts | ✅ Free | Intermediate | https://lnkd.in/g3tZbNpS |
+| Google / Cloud Skills | When and How to Use Generative AI | Generative AI Strategy | ✅ Free | Beginner | https://lnkd.in/gKGfHvSv |
+| Google / Cloud Skills | Generative AI in Teaching and Learning | GenAI in Education | ✅ Free | Beginner | https://lnkd.in/gD_Nb3EJ |
+| Independent Guide | 5-Step Prompting Guide | Prompt Engineering | ✅ Free | Beginner | https://lnkd.in/gcPNxevW |
 
 
 ---
