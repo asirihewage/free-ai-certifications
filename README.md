@@ -1,2 +1,98 @@
-# free-ai-certifications
-A curated list of free AI, Machine Learning, and Data Science certification courses from trusted platforms like Google, Microsoft, IBM, AWS, NVIDIA, and more.
+# 🎓 Free AI Certification Courses
+[![GitHub stars](https://img.shields.io/github/stars/asirihewage/free-ai-certifications?style=social)](https://github.com/asirihewage/free-ai-certifications)
+
+
+A curated and regularly updated list of **free AI, Machine Learning, Deep Learning, and Data Science certification courses** offered by reputable organizations and platforms.
+
+📌 Ideal for:
+- Students
+- Software engineers
+- Data scientists
+- AI enthusiasts
+- Career switchers
+
+---
+
+## ✅ How to Use This List
+- All courses listed here are **free** at the time of listing
+- Some platforms may require account sign-up
+- Certification availability is mentioned clearly
+- Always verify course terms before enrolling
+
+---
+
+## 📊 Free AI Certification Courses
+
+| Provider | Course Name | AI Area | Certificate | Level | Link |
+|--------|-------------|---------|-------------|-------|------|
+| University of Helsinki | Elements of AI | AI Fundamentals | ✅ Free | Beginner | https://www.elementsofai.com |
+| University of Helsinki | Ethics of AI | AI Ethics | ✅ Free | Beginner | https://ethics.elementsofai.com |
+| DeepLearning.AI | AI for Everyone | AI Literacy & Ethics | ❌ Paid | Beginner | https://www.coursera.org/learn/ai-for-everyone |
+| DeepLearning.AI | Generative AI for Everyone | Generative AI | ❌ Paid | Beginner | https://www.coursera.org/learn/generative-ai-for-everyone |
+| DeepLearning.AI + OpenAI | ChatGPT Prompt Engineering for Developers | Prompt Engineering | ❌ Paid | Intermediate | https://www.coursera.org/learn/chatgpt-prompt-engineering-for-developers |
+| DeepLearning.AI | Open Source Models with Hugging Face | Open-Source GenAI | ❌ Paid | Beginner | https://www.deeplearning.ai/short-courses/open-source-models-hugging-face |
+| MIT OpenCourseWare | AI 101 | AI Basics | ✅ Free | Beginner | https://ocw.mit.edu |
+| MIT OpenCourseWare | AI and Algorithms | ML & NLP Algorithms | ✅ Free | Intermediate | https://ocw.mit.edu |
+| MIT | Introduction to Deep Learning (6.S191) | Deep Learning | ✅ Free | Advanced | https://introtodeeplearning.com |
+| MIT | Foundation Models & Generative AI (6.S087) | Generative AI & LLMs | ✅ Free | Beginner | https://ocw.mit.edu |
+| Harvard University | CS50’s Introduction to AI with Python | Python-based AI | ❌ Paid | Intermediate | https://cs50.harvard.edu/ai |
+| Google | Machine Learning Crash Course | Machine Learning | ✅ Free | Beginner–Intermediate | https://developers.google.com/machine-learning/crash-course |
+| Google Cloud | Introduction to Generative AI | Generative AI | ✅ Free (Badge) | Beginner | https://www.cloudskillsboost.google |
+| Google | Google AI Essentials | AI Productivity & Ethics | ❌ Paid | Beginner | https://www.coursera.org |
+| Microsoft Learn | AI Fundamentals | AI Workflow | ✅ Free | Beginner | https://learn.microsoft.com |
+| Microsoft (GitHub) | Machine Learning for Beginners | Classical Machine Learning | ✅ Free | Beginner | https://github.com/microsoft/ML-For-Beginners |
+| Microsoft (GitHub) | Generative AI for Beginners | Generative AI & LLMs | ✅ Free | Beginner | https://github.com/microsoft/generative-ai-for-beginners |
+| Microsoft (GitHub) | AI Agents for Beginners | Agentic AI | ✅ Free | Beginner | https://github.com/microsoft/ai-agents-for-beginners |
+| IBM | Introduction to Artificial Intelligence | AI & ML Foundations | ❌ Paid | Beginner | https://www.coursera.org/learn/introduction-to-ai |
+| IBM | Building AI Chatbots Without Programming | Conversational AI | ❌ Paid | Beginner | https://www.coursera.org |
+| NVIDIA | AI for All: From Basics to GenAI | AI & Generative AI | ✅ Free | Beginner | https://www.nvidia.com |
+| NVIDIA | Building RAG Agents with LLMs | LLMs & RAG | ✅ Free | Intermediate | https://www.nvidia.com |
+| NVIDIA | Generative AI Explained | Generative AI | ✅ Free | Beginner | https://www.nvidia.com |
+| fast.ai | Practical Deep Learning for Coders v5 | Deep Learning | ✅ Free | Advanced | https://course.fast.ai |
+| freeCodeCamp | TensorFlow 2.0 Complete Course | Neural Networks | ✅ Free | Beginner | https://www.freecodecamp.org |
+| freeCodeCamp | Generative AI Full Course | Generative AI Stack | ✅ Free | Beginner | https://www.freecodecamp.org |
+| Stanford University (Udacity) | Intro to Artificial Intelligence | AI Fundamentals | ❌ Paid | Intermediate | https://www.udacity.com |
+| Stanford University Online | Building Large Language Models | LLMs | ✅ Free | Beginner–Intermediate | https://online.stanford.edu |
+| Stanford University Online | Overview of Transformers | Transformers & NLP | ✅ Free | Beginner–Intermediate | https://online.stanford.edu |
+| Anthropic | AI Fluency: Framework & Foundations | Human-AI Collaboration | ✅ Free | Beginner | https://www.anthropic.com |
+| Anthropic (GitHub) | Prompt Engineering Tutorials | Prompt Engineering | ✅ Free | Advanced | https://github.com/anthropics |
+| Hugging Face | MCP Course | Model Context Protocol | ❌ Paid | Intermediate | https://huggingface.co |
+| CodeSignal | Prompt Engineering for Everyone | Prompt Engineering | ✅ Free | Beginner | https://codesignal.com |
+| OpenAI | Intro to AI for K-12 Educators | AI Literacy | ✅ Free | Beginner | https://openai.com |
+| MIT OpenCourseWare | Introduction to Robotics | Robotics & Control | ✅ Free | Intermediate | https://ocw.mit.edu |
+| Stanford (Udacity) | Artificial Intelligence for Robotics | Robotics AI | ❌ Paid | Intermediate | https://www.udacity.com |
+
+
+---
+
+## 🏷️ Legend
+- ✅ **Certificate** – Free certificate available
+- ❌ **Certificate** – Course is free, certificate not included
+
+---
+
+## 🤝 Contributions Welcome
+
+Know a free AI certification course that’s missing?
+
+1. Fork the repo
+2. Add the course to the table
+3. Submit a Pull Request
+
+Please ensure:
+- The course is **free**
+- The link is official
+- Certification availability is accurate
+
+---
+
+## ⭐ Support This Project
+If you find this repository helpful:
+- Give it a ⭐
+- Share it with learners
+- Help keep it updated!
+
+---
+
+## 📜 License
+MIT License – Free to use and share.
